@@ -12,3 +12,7 @@ git push -u origin main
 git remote add origin https://github.com/sonusingh1997/CityStateManager.git
 git branch -M main
 git push -u origin main
+
+
+<!-- --checkout -->
+git pull origin main

@@ -6,6 +6,7 @@ const CityStateManage = () => {
     const [values, setValues] = useState([]); // Array to store state-city pairs for table
     const [dropDownValue, setDropDownValue] = useState('');
     const [cityInput, setCityInput] = useState('');
+    // const [editIndex, setEditIndex] = useState(null);
     const [editIndex, setEditIndex] = useState(null);
 
     // Handle state input field
